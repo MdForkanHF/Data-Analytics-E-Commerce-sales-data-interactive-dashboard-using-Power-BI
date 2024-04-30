@@ -1,4 +1,4 @@
-it's simple Data Analytics project where we are analyzing and observing the sale details.
+it's simple Data Analytics project where we are analyzing and observing the sales details. Most importantly we are going to track the sales activity.
 
 who wants to learne, for those here is some instructions.
 - Details.csv and Orders.csv file are the data set for the project.
