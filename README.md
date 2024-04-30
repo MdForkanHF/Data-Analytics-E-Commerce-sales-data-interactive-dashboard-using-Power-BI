@@ -1,3 +1,4 @@
+#data_analytics #Power_BI
 it's simple Data Analytics project where we are analyzing and observing the sales details. Most importantly we are going to track the sales activity.
 
 who wants to learne, for those here is some instructions.
