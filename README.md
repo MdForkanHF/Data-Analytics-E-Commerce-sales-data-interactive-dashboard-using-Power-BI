@@ -1,6 +1,6 @@
 it's simple Data Analytics project where we are analyzing and observing the sale details.
 
-who want to learne, for those here is some instruction.
+who wants to learne, for those here is some instructions.
 - Details.csv and Orders.csv file are the data set for the project.
 - in this data set u don't need to preprocess anything and there is no missng value also.
 - insert data from get data option.
