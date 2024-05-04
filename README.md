@@ -1,4 +1,7 @@
-Screenshot 2024-04-30 231534.jpg
+![Screenshot 2024-04-30 231824](https://github.com/MdForkanHF/Data-Analytics-E-Commerce-sales-data-interactive-dashboard-using-Power-BI/assets/118150406/21b896c6-4d06-40db-a318-8732b76b4a5e)
+
+
+![Screenshot 2024-04-30 231534](https://github.com/MdForkanHF/Data-Analytics-E-Commerce-sales-data-interactive-dashboard-using-Power-BI/assets/118150406/e56be3ac-01e5-40ce-901a-03ec838d5ea0)
 
 #data_analytics #Power_BI
 
